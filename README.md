@@ -1,5 +1,5 @@
 # Tetris
-This is the source code for developing Tetris with the Java.
+This is the source code for implementation of Tetris with the Java.
 
 
 ## What is Tetris Game?
